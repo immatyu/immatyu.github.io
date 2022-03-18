@@ -1,0 +1,11 @@
+---
+layout: post
+title: 내 블로그 첫 포스팅
+date: 2022-03-18 22:05:20 +0700
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+fig-caption: # Add figcaption (optional)
+tags: [korea,git]
+---
+# 나의 첫 포스팅
+
+신기하고 나의 블로그가 생겨서 좋은 것 같다

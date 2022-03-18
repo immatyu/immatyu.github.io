@@ -2,9 +2,9 @@
 layout: post
 title: 나의 첫 포스팅
 date: 2022-03-18 21:20:00
-description: ''
-fig-caption: ''
-tags:''
+description: 
+fig-caption: 
+tags:
 ---
 
 # 나의 첫 포스팅
